@@ -1,5 +1,6 @@
 [<img src="https://github.com/user-attachments/assets/0e1a77ac-6739-4153-bd24-abd3a5e143f5" width="200px" alt="logo" />](https://github.com/nix-darwin/nix-darwin)
-[<img src="logos/exports/hexley-nix-chain-500x500.png" width="200px" alt="logo" />](https://github.com/nix-darwin/nix-darwin)
+[<img src="./logo/exports/hexley-nix-chain-500x500.png" width="200px" alt="logo" />](https://github.com/nix-darwin/nix-darwin)
+[<img src="https://github.com/winstonford/nix-darwin/blob/master/logo/exports/hexley-nix-chain-500x500.png" width="200px" alt="logo" />](https://github.com/
 
 # nix-darwin
 
